@@ -1,4 +1,4 @@
-# Avocado Prices Prediction
+# Avocado-Price-Prediction-And-Analysis
 
 ## Data Analysis using R
 
@@ -35,3 +35,5 @@ Attribute Information:
   12.	year: The year of observation.
   13.	geography: The city or region of the observation.
   Missing Attribute Values: None
+
+
